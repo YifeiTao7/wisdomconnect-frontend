@@ -1,4 +1,5 @@
 module.exports = {
+  publicPath: 'https://wisdomconnect.azurewebsites.net/',
 
   devServer: {
     host:'0.0.0.0',
